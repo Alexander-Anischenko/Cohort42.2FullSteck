@@ -1,3 +1,5 @@
+package Lesson_01;
+
 public class MyThreadTask extends Thread {
     @Override
     public void run() {

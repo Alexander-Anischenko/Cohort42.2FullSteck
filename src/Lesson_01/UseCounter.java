@@ -1,3 +1,5 @@
+package Lesson_01;
+
 public class UseCounter {
     public static void main(String[] args) throws InterruptedException {
         Counter counter = new Counter();
